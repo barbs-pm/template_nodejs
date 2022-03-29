@@ -1,9 +1,10 @@
-# 
+# NodeJS Template
 
 ## Objective 
+Make easier to start a new project
 
 ## How to use
-1. In **\api\config\config.json** change database information (username, password, database, port and host) to your own info
+1. In **\config\config.json** change database information (username, password, database, port and host) to your own info
 2. Open terminal or cmd and run this (the last command only to populate db if you don't want an empty db to work)
 ```
 npm install
